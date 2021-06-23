@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Model_Asteroiden
+comment1.params=X\ Y
+comment1.target=Model_Asteroiden(int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getRadius()
+comment5.params=b
+comment5.target=void\ anmelden(ModelBeobachter)
+comment6.params=b
+comment6.target=void\ abmelden(ModelBeobachter)
+comment7.params=
+comment7.target=void\ alleInformieren()
+comment8.params=
+comment8.target=void\ nachUntenBewegen()
+numComments=9
